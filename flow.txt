@@ -1,0 +1,11 @@
+1. A masthead image (similar to the masthead on https://www.lntrealty.com/residences/77-crossroads-flats-in-mumbai/).
+
+2. Create a ribbon disclosing the employee offer “Click Here to Avail Exclusive Employee Discount of 2.5%* (M1A grade & above)” either above or below the image. If the user clicks on this ribbon, then the enquiry form should open
+
+3. Create an overview section based on the overview section of https://www.lntrealty.com/residences/77-crossroads-flats-in-mumbai/
+
+4. Immediately after this section create a section on “CONNECTED TO 7 MAJOR DEVELOPMENTS” by referring to https://www.lntrealty.com/campaigns/mumbai-newest-landmark/
+
+5. After this section, create a gallery section similar to the one on https://www.lntrealty.com/residences/77-crossroads-flats-in-mumbai/
+
+6. Following this, create a plans section, RERA & disclaimer based on https://www.lntrealty.com/residences/77-crossroads-flats-in-mumbai/
